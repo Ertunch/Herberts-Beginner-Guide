@@ -2,6 +2,8 @@
  * This program illustrates the difference between int and double
  * double is more used.
  * single and double precision values
+ * why do we have different data-types?
+ * by supplying different data types, Java enables you to make best use of system resources.
  */
 
 public class Example3 {
