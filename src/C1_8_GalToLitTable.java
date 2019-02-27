@@ -21,6 +21,6 @@ public class C1_8_GalToLitTable {
 				counter = 0;
 			}
 		}
-	}
+	} 
 
 }
