@@ -9,7 +9,9 @@ public class ForDemo {
 		
 		int count;
 		
-		for(count = 0;count<5;count = count +1)
+		for(count = 0;count<5;count = count +1)//counter is loop control variable. initialized to 0.
+			// first the conditional test is performed and then do the job then iteration part.
+			// until test is false it's going to perform. count++ is the same with count = count + 1;
 			System.out.println("This is count: " + count);
 		System.out.println("Done");
 
