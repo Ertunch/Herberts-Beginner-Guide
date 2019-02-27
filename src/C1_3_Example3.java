@@ -6,7 +6,7 @@
  * by supplying different data types, Java enables you to make best use of system resources.
  */
 
-public class Example3 {
+public class C1_3_Example3 {
 
 	public static void main(String[] args) {
 		int v;

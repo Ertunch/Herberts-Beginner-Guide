@@ -3,7 +3,7 @@
 //initialization loop control variable to an initial value. if condition is true it iterates otherwise loop terminates
 
 
-public class ForDemo {
+public class C1_6_ForDemo {
 
 	public static void main(String[] args) {
 		

@@ -5,7 +5,7 @@
  * 
  */
 
-public class IfDemo {
+public class C1_4_IfDemo {
 
 	public static void main(String[] args) {
 		if (10<11) System.out.println("10 is less than 11"); 

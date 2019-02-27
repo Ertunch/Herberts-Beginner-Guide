@@ -3,7 +3,7 @@
  * Gallon value multiply with 3.7854
  */
 
-public class GalToLit {
+public class C1_5_GalToLit {
 
 	public static void main(String[] args) {
 		double gallons, liters;

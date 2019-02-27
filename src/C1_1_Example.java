@@ -8,7 +8,7 @@
 // Class is the basic unit of encapsulation.
 public // access modifier- how other parts of the program can access the members of the class
 
-class Example {// Members of the class will live inside this curly brackets.
+class C1_1_Example {// Members of the class will live inside this curly brackets.
 	//All programming activities happens within a class.
 	
 	//A Java program begins with a call to main ()

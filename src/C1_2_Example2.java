@@ -2,7 +2,7 @@
  
  */
 
-public class Example2 {
+public class C1_2_Example2 {
 
 	public static void main(String[] args) {
 		int myVar1;       // Declares a variable, syntax: type varName
