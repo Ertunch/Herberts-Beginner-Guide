@@ -1,0 +1,20 @@
+
+public class C3_2_GuessTheLetterGame {
+
+	public static void main(String[] args) throws java.io.IOException {
+
+		char ch, answer = 'K';
+		System.out.println("I'm thinking of a letter between A and Z.");
+		System.out.print(" Can you guess it: ");
+		
+		ch = (char) System.in.read(); //Read the char from keyboard
+		if(ch == answer){
+			System.out.println("Right");
+			}
+		else {
+			System.out.println("Wrong");
+			}
+		
+	}
+
+}
