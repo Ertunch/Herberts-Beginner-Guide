@@ -9,7 +9,7 @@ public class C2_6_LifetimeOfVariables {
 		int count; // method level scope, more global
 		
 		for (count = 0; count < 10; count++) {
-			int count; //illegal
+		//	int count; //illegal
 			
 		}
 		
